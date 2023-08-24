@@ -56,14 +56,9 @@ header{
 
 
 @media screen and (min-width: 820px) {
-    .tema__descricao{
-        color:#000000
-    }
+    
 }
 
 @media screen and (min-width: 1024px) {
-    .tema__titulo{
-        color:#FFFFFF
-    }
    
 }
